@@ -299,6 +299,15 @@ p {
   background: #68bacd;
 }
 
+.skillset li {
+  font-size: 18px;
+}
+
+.skillset .gray-out {
+  font-size: 14px;
+  color: #a9a9a9;
+}
+
 .footer {
   padding: 30px;
   padding-top: 60px;
