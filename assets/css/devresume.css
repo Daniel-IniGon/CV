@@ -19,6 +19,10 @@ li::marker {
   margin-left: -1em;
 }
 
+h4.item-title {
+  color: #3AAA64;
+}
+
 ul.resume-list > li.resume-achieve {
   list-style: "\2605\0020";
 
