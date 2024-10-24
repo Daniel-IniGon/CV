@@ -32,3 +32,8 @@ ul.resume-list > li {
   list-style: "\2022\0020\0020";
 
 }
+
+.Company-name {
+  color: #3AAA64;
+  font-weight: bold;
+}
